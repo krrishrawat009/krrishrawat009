@@ -1,13 +1,13 @@
-- 👋 Hi, I’m @krrishrawat009
-- 👀 I’m interested in Programming 
-- 🌱 I’m currently learning CSE Cybersecurity 
-- 💞️ I’m looking to collaborat on python and C++ programs 
-- 📫 How to reach me on Instagram 
-krishna05_rawat
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I like to Sketching 🎨 and working out 🏋️
+Hi, I'm Krishna Rawat (@krrishrawat009)! 😊
 
-<!---
-krrishrawat009/krrishrawat009 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm passionate about programming, particularly in Python and C++! 🚀
+
+I'm currently diving deep into Cybersecurity.🕵️‍♂️
+
+I'm always on the lookout for exciting projects to collaborate on!** 🤝
+
+Reach out to me on Instagram: krishna05_rawat 📱
+
+He/Him
+
+⚡ Fun fact: When I'm not coding, I enjoy sketching 🎨 and staying active 🏋️‍♂️.
